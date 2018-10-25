@@ -1,4 +1,6 @@
-# 条件判断	来源：https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001431675624710bb20e9734ef343bbb4bd64bcd37d4b52000
+# 条件判断	
+# 参考来源：https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001431675624710bb20e9734ef343bbb4bd64bcd37d4b52000
+# http://www.runoob.com/python3/python3-basic-operators.html
 age = 5
 
 #	根据Python的缩进规则，如果if语句判断是True，就把缩进的两行print语句执行了，否则，什么也不做。如果判断是else，则去执行else
