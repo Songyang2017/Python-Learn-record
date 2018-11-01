@@ -4,8 +4,8 @@
 ```pyrhon
 age = 5
 ```
-根据Python的缩进规则，如果if语句判断是True，就把缩进的两行print语句执行了，否则，什么也不做。如果判断是else，则去执行else
-#####注意不要少写了冒号 :
+根据Python的缩进规则，如果if语句判断是True，就把缩进的两行print语句执行了，否则，什么也不做。如果判断是else，则去执行else  
+####注意不要少写了冒号 :
 ```pyrhon
 if age>30:
 	print('your age is', age)
