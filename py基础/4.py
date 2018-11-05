@@ -1,0 +1,3 @@
+# https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/0014316724772904521142196b74a3f8abf93d8e97c6ee6000
+# list和tuple
+# Python内置的一种数据类型是列表：list。list是一种有序的集合，可以随时添加和删除其中的元素
